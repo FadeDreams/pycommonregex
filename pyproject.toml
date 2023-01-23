@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "pycommonregex"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package for common regular expressions."
 authors = ["fadedreams7 <fadedreams7@gmail.com>"]
 readme = "README.md"
 license = "MIT"
-repository = ""
+repository = "https://github.com/fadedreams/pycommonregex"
 keywords = ["regex", "utilities"]
 classifiers = [
   "Environment :: Console",
